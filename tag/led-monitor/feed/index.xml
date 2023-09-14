@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>led monitor &#8211; Ijii Group</title>
+	<atom:link href="/tag/led-monitor/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Your Success Friend</description>
+	<lastBuildDate>Mon, 04 Sep 2023 15:15:32 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Videotron? Itu Apa?</title>
+		<link>/2023/09/04/videotron-itu-apa/</link>
+					<comments>/2023/09/04/videotron-itu-apa/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 04 Sep 2023 15:15:32 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[led dip]]></category>
+		<category><![CDATA[led monitor]]></category>
+		<category><![CDATA[led smd]]></category>
+		<category><![CDATA[videotron]]></category>
+		<category><![CDATA[videotron indoor]]></category>
+		<category><![CDATA[videotron outdoor]]></category>
+		<guid isPermaLink="false">/?p=1297</guid>
+
+					<description><![CDATA[Videotron adalah sebuah layar yang menggunakan teknologi LED dan berfungsi menampilkan visual dinamis untuk kebutuhan penyebaran informasi atau iklan baik untuk perusahaan maupun instansi. Penggunaan teknologi tersebut sudah banyak digunakan oleh media informasi maupun periklanan untuk menampilkan promosi mereka. Saat ini sudah banyak pemasangan LED monitor yang menempel pada kendaraan pribadi untuk iklan maupun promosi. Contoh...]]></description>
+										<content:encoded><![CDATA[
+<p>Videotron adalah sebuah layar yang menggunakan teknologi LED dan berfungsi menampilkan visual dinamis untuk kebutuhan penyebaran informasi atau iklan baik untuk perusahaan maupun instansi.</p>
+
+
+
+<p>Penggunaan teknologi tersebut sudah banyak digunakan oleh media informasi maupun periklanan untuk menampilkan promosi mereka. Saat ini sudah banyak pemasangan LED monitor yang menempel pada <a href="https://stickearn.com/insights/blog/mengenal-iklan-di-kendaraan">kendaraan pribadi untuk iklan</a> maupun promosi. Contoh atau jenis videotron yang menempel pada kendaraan pribadi ialah di badan truk.</p>
+
+
+
+<p><strong>Apa bedanya Videotron Indoor dan Outdoor?</strong></p>
+
+
+
+<p>Bedanya yang umum, bahwa Videotron Indoor dipasang pada dalam ruangan dan Videotron Outdoor dipasang pada luar ruangan. Dan tidak hanya itu saja perbedaannya, biasanya Videotron Outdoor memakai jenis lampu LED DIP dan Videotron Indoor memakai jenis lampu LED SMD.</p>
+
+
+
+<p>LED merupakan perangkat semikonduktor yang akan mengeluarkan cahaya ketika dialiri arus listrik. Pada penggunaanya, alat ini biasanya menggunakan dua jenis LED, yaitu LED DIP dan LED SMD. Berikut penjelasan dari kedua Jenis LED tersebut:</p>
+
+
+
+<ol type="1">
+<li>LED DIP<br>LED DIP atau Dual In Line Package merupakan jenis LED yang penggunanya banyak untuk videotron outdoor. Pada jenis ini maka lampu merah, biru, dan hijau akan berdiri masing-masing. Jenis ini juga memiliki tingkat kecerahan yang lebih terang. LED jenis ini mampu mencapai range 8000 sampai 12000 nits.</li>
+
+
+
+<li>LED SMD<br>LED SMD atau Surface Mounted Device merupakan jenis LED yang penggunaanya biasa pada videotron <em>indoor</em>. Pada jenis ini ketiga lampu merah, biru, dan hijau akan bergabung pada satu kotak chipset yang sama. Tingkat kecerahan LED jenis ini memang tidak seterang DIP. Penggunaan biasanya untuk kebutuhan range antara 600 sampai 6000 nits.</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/09/04/videotron-itu-apa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
